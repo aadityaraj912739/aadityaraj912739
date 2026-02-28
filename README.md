@@ -4,6 +4,7 @@ Hey, I’m Aaditya Raj.<br><br>I’m passionate about building web applications 
 
 ## 🌐 Socials:
 [![Online Quiz](https://img.shields.io/badge/Online_Quiz-00C7B7?logo=vercel&logoColor=white)](https://online-subject-quiz.vercel.app/) 
+![Portfolio](https://img.shields.io/badge/Portfolio-00C7B7?logo=vercel&logoColor=white)](https://portfolio-two-murex-93.vercel.app/) 
 [![ChatVibe](https://img.shields.io/badge/ChatVibe-7289DA?logo=googlechat&logoColor=white)](https://chat-vibe-five.vercel.app/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ar912739/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ar912739@gmail.com)
